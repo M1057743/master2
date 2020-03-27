@@ -14,3 +14,4 @@ feature 1 with 1 bugp
 =======
 feature1 with i bugfeature 2 wip
 >>>>>>> feature 2 wip
+feature1
